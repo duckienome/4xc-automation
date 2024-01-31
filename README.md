@@ -1,4 +1,4 @@
-# 4cx0-Automation Script  
+# 4xc-Automation Script  
 The aim of this script to be a full automated custom installer *after* installing the main distro.  
 ---
 
